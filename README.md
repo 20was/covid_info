@@ -8,6 +8,6 @@ Simple UI
 
 ![Sample 3](/images/screenshot/sc3.png)
 
-##Inspired by
+## Inspired by
 
  [Dribble](https://dribbble.com/shots/11110333-Covid-19 )
